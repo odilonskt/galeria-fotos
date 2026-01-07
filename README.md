@@ -37,23 +37,30 @@ pnpm run dev
 
 ⚡ Interface rápida e moderna
 
-## 🖥️ Demonstração do Projeto
+#🖥️ Demonstração do Projeto
 
-### Desktop
+## Desktop
 
-Página Inicial
-![home-page-desktop](image.png)
+ ### Página Inicial
+<img width="1571" height="856" alt="image" src="https://github.com/user-attachments/assets/cc491c4c-b4ef-4a38-a91e-164dc45de6d5" />
 
-Pesquisa de Pokémon
-![pesquisa-image-desktop](image-2.png)
-Página Dinâmica (Detalhes do Pokémon)
-![page-dinamica-desktop](image-3.png)
 
-### Mobile
+### Pesquisa de Pokémon
+<img width="1383" height="553" alt="image-2" src="https://github.com/user-attachments/assets/cb0f39f3-cfcf-4e50-b05f-60f3ee66130b" />
 
-Página Inicial
-![home-page-mobile](image-1.png)
-Página Dinâmica (Detalhes do Pokémon)
-![pesquisa-image-mobile](image.png)
-Pesquisa de Pokémon
-![page-dinamica-mobile](image-4.png)
+ ### Página Dinâmica (Detalhes do Pokémon)
+
+<img width="1596" height="853" alt="image-3" src="https://github.com/user-attachments/assets/cd8fdcaf-f807-4c8c-aaf6-bf951d1d23eb" />
+
+## Mobile
+
+### Página Inicial
+<img width="505" height="885" alt="image-1" src="https://github.com/user-attachments/assets/61219917-53e1-4c1a-a8e5-e179d6782012" />
+
+
+### Página Dinâmica (Detalhes do Pokémon)
+<img width="656" height="876" alt="image-4" src="https://github.com/user-attachments/assets/4933daaa-0ebc-42d7-85af-bce0860a7223" />
+
+ ### Pesquisa de Pokémon
+<img width="404" height="716" alt="image" src="https://github.com/user-attachments/assets/7cd43ad8-7d1c-4837-a312-051906dbc66d" />
+
